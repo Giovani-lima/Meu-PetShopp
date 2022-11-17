@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+  }
+  
+  body {
+    font-size: 100%;
+    background: linear-gradient(68.15deg, #72af7f 16.62%, #164b16 85.61%);
+  }
+
+  .cachorrosadocao{
+    width:"100";
+    height: "50";
+  }

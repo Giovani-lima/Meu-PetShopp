@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+  }
+  
+  body {
+    font-size: 100%;
+    background: linear-gradient(68.15deg, #72af7f 16.62%, #164b16 85.61%);
+  }
+
+input {
+    display: block;
+    height: 55px;
+    width: 400px;
+    margin: 10px;
+    border-radius: 30px;
+    padding: 10px 20px;
+    font-size: 16pt;
+    background-color: rgba(255,255,255, 0.1);
+    color: white;
+    border: 1px solid black;
+}
+
+input#login {
+    width: 440px;
+    background-color: rgb(4, 236, 24);
+}
+
+input#cadastrar {
+    width: 440px;
+    background-color: rgb(155,255,15);
+}
+
+
+div#form-login {
+    width: 450px;
+    margin: 150px auto;
+}
+
+body {
+    color: white;
+    font-family: Arial;
+    text-align: center;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+
+}
+
+a:hover{
+    text-decoration: underline;
+}
